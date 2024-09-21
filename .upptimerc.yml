@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Serv00
-    url: http://serv.qqnews.pp.ua/
+    url: http://panel4.qqnews.pp.ua/
   - name: IPv6 test
     url: forwardemail.net
     port: 80
