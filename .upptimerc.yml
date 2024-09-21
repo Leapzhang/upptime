@@ -10,10 +10,12 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Serv00
-    url: http://panel4.qqnews.pp.ua/
+    url: http://panel4.qqnews.pp.ua
   - name: Serv00-panel10
-    url: http://panel10.qqnews.pp.ua/
-
+    url: http://panel10.qqnews.pp.ua
+  - name: CT8
+    url: http://ct8.qqnews.pp.ua
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
