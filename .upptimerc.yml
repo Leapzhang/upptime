@@ -13,7 +13,8 @@ sites:
     url: http://panel4.qqnews.pp.ua
   - name: Serv00-panel10
     url: http://panel10.qqnews.pp.ua
-    
+  - name: Serv00-panel102
+    url: http://panel102.qqnews.pp.ua   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
