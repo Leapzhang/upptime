@@ -58,9 +58,9 @@
     "url": "http://panel4.qqnews.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/panel4.qqnews.pp.ua.ico",
     "slug": "serv00",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -70,6 +70,7 @@
     "timeMonth": 581,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2024-12-26": 0,
       "2024-09-21": 30
     }
   },
