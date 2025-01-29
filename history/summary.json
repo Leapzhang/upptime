@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
     "timeDay": 110,
     "timeWeek": 160,
     "timeMonth": 128,
     "timeYear": 114,
-    "dailyMinutesDown": {
-      "2025-01-29": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -60,18 +58,19 @@
     "url": "http://panel4.qqnews.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/panel4.qqnews.pp.ua.ico",
     "slug": "serv00",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 578,
     "timeDay": 738,
     "timeWeek": 582,
     "timeMonth": 593,
     "timeYear": 578,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2024-12-26": 110,
       "2024-09-21": 30
     }
