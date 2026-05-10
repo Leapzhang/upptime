@@ -11,9 +11,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.94%",
     "time": 138,
-    "timeDay": 71,
-    "timeWeek": 109,
-    "timeMonth": 110,
+    "timeDay": 119,
+    "timeWeek": 113,
+    "timeMonth": 111,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2026-05-06": 100,
@@ -38,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 61,
-    "timeWeek": 224,
-    "timeMonth": 177,
+    "timeDay": 281,
+    "timeWeek": 231,
+    "timeMonth": 184,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -56,14 +56,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 301,
-    "timeDay": 403,
-    "timeWeek": 267,
-    "timeMonth": 308,
+    "timeDay": 193,
+    "timeWeek": 276,
+    "timeMonth": 310,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2025-05-27": 18,
-      "2025-05-11": 66,
-      "2025-05-10": 4
+      "2025-05-11": 66
     }
   },
   {
@@ -72,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel4.qqnews.pp.ua.ico",
     "slug": "serv00",
     "status": "down",
-    "uptime": "32.44%",
+    "uptime": "32.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 627,
-    "timeDay": 307,
-    "timeWeek": 444,
+    "timeDay": 609,
+    "timeWeek": 437,
     "timeMonth": 473,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2026-05-09": 129,
+      "2026-05-10": 130,
+      "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
@@ -446,8 +446,7 @@
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
-      "2025-05-11": 1440,
-      "2025-05-10": 1440
+      "2025-05-11": 1440
     }
   },
   {
@@ -456,18 +455,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel10.qqnews.pp.ua.ico",
     "slug": "serv00-panel10",
     "status": "down",
-    "uptime": "32.56%",
+    "uptime": "32.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 607,
-    "timeDay": 215,
-    "timeWeek": 401,
-    "timeMonth": 468,
-    "timeYear": 594,
+    "time": 606,
+    "timeDay": 292,
+    "timeWeek": 397,
+    "timeMonth": 456,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2026-05-09": 129,
+      "2026-05-10": 131,
+      "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
@@ -830,8 +830,7 @@
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
-      "2025-05-11": 1440,
-      "2025-05-10": 1440
+      "2025-05-11": 1440
     }
   },
   {
@@ -840,18 +839,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel102.qqnews.pp.ua.ico",
     "slug": "serv00-panel102",
     "status": "down",
-    "uptime": "31.79%",
+    "uptime": "31.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 573,
-    "timeDay": 320,
-    "timeWeek": 443,
-    "timeMonth": 486,
-    "timeYear": 588,
+    "timeDay": 314,
+    "timeWeek": 401,
+    "timeMonth": 471,
+    "timeYear": 587,
     "dailyMinutesDown": {
-      "2026-05-09": 129,
+      "2026-05-10": 131,
+      "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
@@ -1214,8 +1214,7 @@
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
-      "2025-05-11": 1440,
-      "2025-05-10": 1440
+      "2025-05-11": 1440
     }
   }
 ]
